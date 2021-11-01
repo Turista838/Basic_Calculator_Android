@@ -1,4 +1,9 @@
-# Calculator
+# Basic_Calculator_Android
 
-A small basic calculator (similar to Windows calculator) created for Android devices.
-This project
+### Project developed for 'Mobile Architectures', a third year subject @ISEC
+
+This is my first project for Android, where I tested the knowledge I gained from 6 hours of classes, like:
+* Android Studio Setup
+* Kotlin language
+* Resources (drawables, layouts, values,...)
+* Events processing
