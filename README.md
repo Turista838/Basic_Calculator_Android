@@ -7,3 +7,5 @@ This is my first project for Android, where I tested the knowledge I gained from
 * Kotlin
 * Resources (drawables, layouts, values,...)
 * Events processing
+
+The StringTokenizer used in this project is not really required to do the calculations. Only added it to train with such Object.
